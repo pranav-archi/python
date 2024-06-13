@@ -1,0 +1,9 @@
+1 kilometres = 0.625 miles
+1 miles = 1.6 kilometres
+
+1 centimetres = 0.01 metre
+1 metre = 100.0 centimetres
+
+1 litres = 0.2222222222222222 gallon
+1 gallon = 4.5 litres
+
